@@ -6,5 +6,6 @@
 </head>
 <body>
 Hello world!
+I'm enjoying this git assignment, this class, and the professor.
 <cheyaoguo>
 </html>
